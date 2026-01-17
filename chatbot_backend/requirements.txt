@@ -1,0 +1,10 @@
+Django>=3.2
+daphne>=4.0.0
+python-dotenv
+langchain
+langchain-openai
+requests
+fuzzywuzzy
+django-cors-headers
+python-Levenshtein
+django-cors-headers

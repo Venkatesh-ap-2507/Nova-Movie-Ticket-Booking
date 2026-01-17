@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "nova-admin",
+    "slug": "snack-16ac39e3-f584-4e18-b3d0-67b82a3c2b95",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.neerajp.snack16ac39e3f5844e18b3d067b82a3c2b95"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
